@@ -1,6 +1,6 @@
 # aws-batch-demo
 
-Este repositorio contiene un script de Python que suma dos números y almacena el resultado en un archivo JSON en un bucket de AWS S3. El script está diseñado para ser ejecutado en un contenedor Docker.
+Este repositorio contiene un script de Python que suma dos números y almacena el resultado en un archivo JSON en un bucket de AWS S3. El script está diseñado para ser ejecutado en un contenedor Docker listo para ser lanzado en un job de aws batch.
 
 ## Requisitos Previos
 
